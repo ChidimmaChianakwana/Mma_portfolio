@@ -1,18 +1,42 @@
-# Mma_portfolio
-Data Analytics Portfolio
+# ✈️ Airplane Crashes and Fatalities Analysis (1908–2009)
 
+This Power BI dashboard presents a visual and data-driven analysis of airplane crashes and fatalities from 1908 to 2009. The project explores key patterns and insights into aviation accidents, leveraging **Power Query** for data cleaning and **Power BI** for dynamic visualization.
 
-# Airplane Crashes and Fatalities
-I used Power query to clean the data and visualised it with powerbi
-I analysed the airplane crashes and fatalities from 1908 to 2009. This dataset enables you to deduce:
-1. The fatalities by route and location using the map
-2. The total number of both ground and air fatalities.
-3. The month and year with the most air and ground fatalities.
-4. The route that had the most fatalities
-5. The aircraft that had the most fatalities by month and year.
+---
 
-From these visuals, I was able to deduce the number of fatalities that was reorded in the 9-11 attack in the united States and so many other major accidents. There are slides available to use to filter the visuals the way you want.
+## 📌 Objectives
+- Analyze trends in **air and ground fatalities**
+- Identify **routes, aircraft types**, and **locations** with the highest fatalities
+- Examine **temporal trends** (by month and year)
+- Highlight major incidents like the **9/11 attacks** in the U.S.
+- Provide **interactive slicers** for customized data exploration
 
-## Dashboard
+---
 
-![Dashboard](./Aircrash%20analysis.PNG)
+## 🔍 Key Insights
+1. Fatalities by **route** and **geographic location** (using map visuals)
+2. Total number of **airborne and ground** fatalities
+3. Month and year with the **highest recorded incidents**
+4. Route and aircraft models involved in **most fatalities**
+5. Timeline of major air disasters including high-impact events
+
+---
+
+## 🧰 Tools Used
+- **Power Query** – for data cleaning and transformation
+- **Power BI** – for dashboard creation and data storytelling
+
+---
+
+## 📊 Dashboard Preview
+
+![Airplane Crash Dashboard](./Aircrash%20analysis.PNG)
+
+---
+
+## 🎯 Interactive Features
+- Filter visuals by **year, location, or aircraft**
+- Drill down into specific crash types or time periods
+- Analyze incident patterns with **user-friendly slicers**
+
+---
